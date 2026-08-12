@@ -7,11 +7,11 @@ android {
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.mars.simpleepubreader.reader8'
+        applicationId 'com.mars.simpleepubreader.reader9'
         minSdk 23
         targetSdk 23
-        versionCode 8
-        versionName '1.7-mars-reader8'
+        versionCode 9
+        versionName '1.8-mars-reader9'
     }
 
     compileOptions {
