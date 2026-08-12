@@ -62,7 +62,7 @@ public class ReaderV8Activity extends ReaderV7Activity {
                 if (f.isFile()) return Typeface.createFromFile(f);
             } catch (Throwable ignored) {}
         }
-        return MainActivity.super.minchoTypeface();
+        return super.minchoTypeface();
     }
 
     void prepareChapterSlots() {
