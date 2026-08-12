@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="false"
-        android:label="Simple EPUB Reader Mars v3"
+        android:label="Simple EPUB Reader Mars v4"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
             android:name="com.mars.simpleepubreader.MainActivity"
