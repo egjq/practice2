@@ -4,10 +4,10 @@
 
     <application
         android:allowBackup="false"
-        android:label="Simple EPUB Reader Mars v8"
+        android:label="Simple EPUB Reader Mars v9"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
-            android:name="com.mars.simpleepubreader.ReaderV8Activity"
+            android:name="com.mars.simpleepubreader.ReaderV9Activity"
             android:configChanges="orientation|screenSize|keyboardHidden"
             android:screenOrientation="portrait"
             android:exported="true">
